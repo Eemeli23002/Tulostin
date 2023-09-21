@@ -13,7 +13,7 @@ System.out.println("Ohjelman tekijä: " + tekija);
 System.out.println("Muuttujan 1 arvo on: "+ luku1);
 
 System.out.println("Muuttujan 2 arvo on: "+ luku2);
-
+System.out.println(tulo);
 
 	}
 
