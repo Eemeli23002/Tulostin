@@ -19,6 +19,11 @@ System.out.println("Muuttujan 2 arvo on: "+ luku2);
 System.out.println(tulo);
 
 System.out.println(jako);
+
+System.out.println(summa);
+
+System.out.println(erotus);
+
 	}
 
 }
